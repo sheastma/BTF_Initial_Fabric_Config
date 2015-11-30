@@ -1,12 +1,12 @@
 BTF - Initial Fabric Health checker (pre-alpha/alpha)
 =====================
 
-This script checks the fabric for the following policies:
-mgmt address (out of band only right now)
-ntp
-dns
-route reflectors
-remote location
+This script checks the fabric for the following policies:<br/>
+mgmt address (out of band only right now) <br/>
+ntp<br/>
+dns<br/>
+route reflectors<br/>
+remote location<br/>
 
 These policies are typically crucial for day 1 operations
 and other policies rely on these policies to be configured.
